@@ -51,11 +51,11 @@ const About = () => {
         variants={fadeIn("","", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
-          ISYANA versatile creative professional with expertise in Graphic Design,
-          3D Visuals, Social Media Strategy, and Video Editing. With two years
-          of experience in digital media, I blend imaginative design with strategic
-          thinking to create engaging content. Driven by a passion for storytelling
-          and innovation, I aim to capture and inspire audiences with each project.
+          An one-stop creative talent I am, capable in Graphic Design, 3D Visuals,
+          Social Media Strategy and Video Editing.Having been working in digital media
+          for two years, I mix imaginative design with strategic thinking to produce
+          content that is visually engaging.Fuelled by storytelling and an inner need
+          to do things differently, I seek out new audiences with every project I undertake.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
