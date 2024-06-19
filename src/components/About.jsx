@@ -51,7 +51,7 @@ const About = () => {
         variants={fadeIn("","", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
-          A versatile creative professional with expertise in Graphic Design,
+          ISYANA versatile creative professional with expertise in Graphic Design,
           3D Visuals, Social Media Strategy, and Video Editing. With two years
           of experience in digital media, I blend imaginative design with strategic
           thinking to create engaging content. Driven by a passion for storytelling
